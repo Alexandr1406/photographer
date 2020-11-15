@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/layout/switcher.scss"
+    ],
+    "names": [],
+    "file": "switcher.min.css"
+}
